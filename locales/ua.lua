@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "Накладка ~INPUT_PICKUP~\nНакладка плівки: ~INPUT_INTERACTION_MENU~",
+        vehicle = "Weazel Новини Автомобілі",
+        close_menu = "浜у 涓 蹇",
+        heli = "Weazel Новини вертольоти",
+        store_vehicle = "Зберігати автомобіль",
+        vehicles = "Автомобілі",
+        store_helicopters = "Зберігати вертольоти",
+        helicopters = "вертольоти",
+        enter = "Увійти",
+        go_outside = "Зареєструватися",
+        breaking_news = "НОВИНИ",
+        title_breaking_news = "7:00 AM / Сьогодні Weazel Новини Ексклюзивний",
+        bottom_breaking_news = "Ми приносимо вам нові новини, як це відбувається",
+        take_camera = "Приймати відеокамеру",
+        take_boom_mic = "Візьміть бум mic",
+        take_hand_mic = "Візьміть руку мікс",
+        take_vehicle = "Приймати автомобіль",
+        no_vehicles = "Немає транспортних засобів",
+        garage = "Weazel Новини Гараж",
+        news_title = "Новини",
+        field_live = "FIELD UNIT // ЖИТЛО",
+        camera_label = "НОВИНИ CAM 01",
+    }
+}

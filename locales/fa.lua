@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "Weazle Overlay XQPLACEHOLDER\nفیلم Overlay: BioQPLACEHOLDER1QXZ",
+        vehicle = "وسایل نقلیه خبری Weazel News",
+        close_menu = "نزدیک منو",
+        heli = "هلیکوپترهای خبری Weazel News",
+        store_vehicle = "فروشگاه ماشین",
+        vehicles = "وسایل نقلیه",
+        store_helicopters = "خرید هلیکوپتر",
+        helicopters = "هلیکوپتر",
+        enter = "وارد شوید",
+        go_outside = "بیرون بروید",
+        breaking_news = "دانلود بازی BREAKING",
+        title_breaking_news = "7:00 AM / امروز Weazel News انحصاری",
+        bottom_breaking_news = "ما شما را به عنوان اخبار زندگی می کنند همانطور که اتفاق می افتد",
+        take_camera = "دوربین خبری",
+        take_boom_mic = "mic",
+        take_hand_mic = "دست ها را بردارید",
+        take_vehicle = "ماشین",
+        no_vehicles = "هیچ وسیله نقلیه ای در دسترس نیست",
+        garage = "Weazel News گاراژ",
+        news_title = "اخبار WEAZEL",
+        field_live = "دانلود بازی FIELDUA Live",
+        camera_label = "اخبار CAM 01",
+    }
+}

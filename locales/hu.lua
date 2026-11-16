@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "Weezle Overlay ~INPUT_PICKUP~\nFilm Overlay: ~INPUT_INTERACTION_MENU~",
+        vehicle = "Weazel News Vehicles",
+        close_menu = "Az étlap bezárása",
+        heli = "Weazel News Helikopterek",
+        store_vehicle = "Tárolja a járművet",
+        vehicles = "Járművek",
+        store_helicopters = "A helikopterek tárolása",
+        helicopters = "Helikopterek",
+        enter = "Belépés",
+        go_outside = "Menj ki!",
+        breaking_news = "BREAKING HÚS",
+        title_breaking_news = "7: 00 / Today Weazel News exkluzív",
+        bottom_breaking_news = "Elhozzuk neked a LegLATESEBB HÍVÁST ÉJJÜK ahogy történik",
+        take_camera = "Take news camera",
+        take_boom_mic = "Take boom mic",
+        take_hand_mic = "Fogd a mikrofont!",
+        take_vehicle = "Jármű felvétele",
+        no_vehicles = "Nincs elérhető jármű",
+        garage = "Weazel News Garage",
+        news_title = "WEAZEL HÚSOK",
+        field_live = "FIELD UNIT / / ÉLŐ",
+        camera_label = "HÍREK CAM 01",
+    }
+}

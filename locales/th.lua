@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "Vazle Overley ZXQPLPLHOLHLER0QXZ\nฟิล์มโอเวอร์เลย์: ZXQPLEPLHOLHLDER1QXZ",
+        vehicle = "วี เซล นิ วส์",
+        close_menu = "○ ปิด เมนู",
+        heli = "วี เซล นิ วส์",
+        store_vehicle = "เก็บรถ",
+        vehicles = "พาหนะ",
+        store_helicopters = "เก็บ เฮลิคอปเตอร์",
+        helicopters = "เฮลิคอปเตอร์",
+        enter = "เข้า",
+        go_outside = "ออกไปข้างนอก",
+        breaking_news = "ข่าว ที่ ถูก ขัด ขวาง",
+        title_breaking_news = "7:00 น. / ปัจจุบัน เว เซล นิ วส์",
+        bottom_breaking_news = "เรานําคุณข่าว LateSTs สดตามที่มันเกิดขึ้น",
+        take_camera = "เรียกดูกล้องข่าว",
+        take_boom_mic = "รับไมค์",
+        take_hand_mic = "หยิบไมค์",
+        take_vehicle = "เอารถไป",
+        no_vehicles = "ไม่มีพาหนะ",
+        garage = "เว เซล นิ วส์",
+        news_title = "ข่าว จาก เว เซล",
+        field_live = "สหรัฐ / อยู่",
+        camera_label = "AM ข่าว 01",
+    }
+}

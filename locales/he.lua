@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "Weazle Overlay ~INPUT_PICKUP~\nצילום: ~INPUT_INTERACTION_MENU~",
+        vehicle = "Weazel News Vehicles",
+        close_menu = "תפריט סגור",
+        heli = "Weazel News Helicopters",
+        store_vehicle = "לאחסן את הרכב",
+        vehicles = "רכב",
+        store_helicopters = "חנות Helicopters",
+        helicopters = "Helicopters",
+        enter = "Enter",
+        go_outside = "לצאת בחוץ",
+        breaking_news = "תגית: News",
+        title_breaking_news = "7:00 AM / Today Weazel News בלעדי",
+        bottom_breaking_news = "אנו מביאים לכם את החדשות הטובות ביותר כפי שקורה",
+        take_camera = "קח מצלמה",
+        take_boom_mic = "קח mic",
+        take_hand_mic = "Take Hand mic",
+        take_vehicle = "קח רכב",
+        no_vehicles = "אין רכבים זמינים",
+        garage = "Weazel News Garage",
+        news_title = "חדשות WeAZEL",
+        field_live = "צילום: Live",
+        camera_label = "CAM 01",
+    }
+}

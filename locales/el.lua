@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "Επικάλυψη Weazle ~INPUT_PICKUP~\nΕπικάλυψη ταινίας: ~INPUT_INTERACTION_MENU~",
+        vehicle = "Οχήματα Weazel News",
+        close_menu = "⬅ Κλείσιμο μενού",
+        heli = "Ελικόπτερα του Weazel News",
+        store_vehicle = "Αποθήκευση του οχήματος",
+        vehicles = "Οχήματα",
+        store_helicopters = "Αποθηκεύστε τα Ελικόπτερα",
+        helicopters = "Ελικόπτερα",
+        enter = "Είσοδος",
+        go_outside = "Πήγαινε έξω.",
+        breaking_news = "ΑΝΑΦΕΡΟΝΤΑΣ ΝΕΑ",
+        title_breaking_news = "7:00 πμ / Σήμερα Weazel News Αποκλειστικά",
+        bottom_breaking_news = "Σας φέρνουμε τα τελευταία νέα ζωντανά όπως συμβαίνει.",
+        take_camera = "Λήψη κάμερας ειδήσεων",
+        take_boom_mic = "Πάρε το μικρόφωνο.",
+        take_hand_mic = "Πιάσε το μικρόφωνο του χεριού",
+        take_vehicle = "Λήψη οχήματος",
+        no_vehicles = "Δεν υπάρχουν διαθέσιμα οχήματα",
+        garage = "Γκαράζ για τα Νέα του Γουεζέλ",
+        news_title = "ΑΙΣΘΗΤΙΚΑ ΝΕΑ",
+        field_live = "ΜΟΝΑΔΑ ΠΕΔΙΟΥ // ΖΩΗΣ",
+        camera_label = "ΝΕΑ CAM 01",
+    }
+}

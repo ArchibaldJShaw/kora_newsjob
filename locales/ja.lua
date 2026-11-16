@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "ウェザーオーバーレイ ~INPUT_PICKUP~\nフィルムオーバーレイ: ~INPUT_INTERACTION_MENU~",
+        vehicle = "Weazelニュース車",
+        close_menu = "メニュー",
+        heli = "Weazelニュースヘリコプター",
+        store_vehicle = "車両の保管",
+        vehicles = "車両",
+        store_helicopters = "ヘリコプターを保管",
+        helicopters = "ヘリコプター",
+        enter = "エントリー",
+        go_outside = "外で行く",
+        breaking_news = "ニュース",
+        title_breaking_news = "7:00 AM / 今日 Weazel ニュース 独占",
+        bottom_breaking_news = "LATEST NEWSをそのままお届けします。",
+        take_camera = "ニュースカメラ",
+        take_boom_mic = "ブームマイクを取る",
+        take_hand_mic = "ハンドマイクを取る",
+        take_vehicle = "乗車車両",
+        no_vehicles = "車種なし",
+        garage = "Weazelニュースガレージ",
+        news_title = "ウェザーニュース",
+        field_live = "フィールドユニット // LIVE",
+        camera_label = "ニュース CAM 01",
+    }
+}

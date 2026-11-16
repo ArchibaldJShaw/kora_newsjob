@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "Weazle Overlay ~INPUT_PICKUP~\nFilm Overlay: ~INPUT_INTERACTION_MENU~",
+        vehicle = "Weazel News køretøjer",
+        close_menu = "Name",
+        heli = "Weazel News Helikoptere",
+        store_vehicle = "Opbevar køretøjet",
+        vehicles = "Køretøjer",
+        store_helicopters = "Gem helikopterne",
+        helicopters = "Helikoptere",
+        enter = "Indtast",
+        go_outside = "Gå udenfor",
+        breaking_news = "NYHEDER",
+        title_breaking_news = "7: 00 AM / I dag Weazel News Eksklusiv",
+        bottom_breaking_news = "Vi bringer dig de nyeste nyheder live som det sker",
+        take_camera = "Tag nyhedskamera",
+        take_boom_mic = "Tag boommikrofon",
+        take_hand_mic = "Tag hånd mikrofon",
+        take_vehicle = "Tag køretøjet",
+        no_vehicles = "Ingen køretøjer tilgængelige",
+        garage = "Weazel News Garage",
+        news_title = "WEAZEL NYT",
+        field_live = "FELTENHED / / LIVE",
+        camera_label = "NYT OM CAM 01",
+    }
+}

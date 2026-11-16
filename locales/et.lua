@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "Weazle Overlay ~INPUT_PICKUP~\nFilmi kattekiht: ~INPUT_INTERACTION_MENU~",
+        vehicle = "Weazel News Sõidukid",
+        close_menu = "⬅ Sulge menüü",
+        heli = "Weazel News Helikopters",
+        store_vehicle = "Hoida sõiduk alles",
+        vehicles = "Sõidukid",
+        store_helicopters = "Hoida koptereid",
+        helicopters = "Helikopterid",
+        enter = "Sisene",
+        go_outside = "Mine välja.",
+        breaking_news = "BREAKING NEWS",
+        title_breaking_news = "7:00 / Today Weazel News Exclusive",
+        bottom_breaking_news = "Me toome teile viimased uudised otseülekandes, nagu see juhtub",
+        take_camera = "Uudistekaamera",
+        take_boom_mic = "Võta mikrofoni",
+        take_hand_mic = "Käsi mikrofoniga",
+        take_vehicle = "Võta auto.",
+        no_vehicles = "Sõidukid puuduvad",
+        garage = "Weazeli uudiste garaaž",
+        news_title = "WeAZEL News",
+        field_live = "VALDKOND ELUS",
+        camera_label = "UUED CAM 01",
+    }
+}

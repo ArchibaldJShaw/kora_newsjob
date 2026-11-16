@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "韦兹尔·多克兹(英语:Waazle Overlay ~INPUT_PICKUP~).\n电影重叠:~INPUT_INTERACTION_MENU~",
+        vehicle = "韦泽尔新闻车辆",
+        close_menu = "QQ 关闭菜单",
+        heli = "韦泽尔新闻直升机",
+        store_vehicle = "储存车辆",
+        vehicles = "车辆",
+        store_helicopters = "储存直升机",
+        helicopters = "直升机",
+        enter = "输入",
+        go_outside = "出来",
+        breaking_news = "新闻",
+        title_breaking_news = "早上7点/今天 Weazel新闻独家报道",
+        bottom_breaking_news = "我们给你带来最晚的新闻 现场,因为它发生",
+        take_camera = "拍摄新闻相机",
+        take_boom_mic = "来个爆米花",
+        take_hand_mic = "手拿麦克风",
+        take_vehicle = "开车",
+        no_vehicles = "无可用车辆",
+        garage = "Weazel 新闻停车场",
+        news_title = "韦兹新闻",
+        field_live = "外地特派团/生活",
+        camera_label = "01新闻",
+    }
+}

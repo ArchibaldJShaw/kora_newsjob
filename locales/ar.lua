@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "Weazle Overlay ~INPUT_PICKUP~\nالنفقة الفيلمية: ~INPUT_INTERACTION_MENU~",
+        vehicle = "مركبات أخبار Weazel",
+        close_menu = "⬅ close Menu",
+        heli = "طائرات الهليكوبتر",
+        store_vehicle = "تخزين المركبات",
+        vehicles = "المركبات",
+        store_helicopters = "تخزين طائرات الهليكوبتر",
+        helicopters = "طائرات الهليكوبتر",
+        enter = "Enter",
+        go_outside = "اذهب للخارج",
+        breaking_news = "الصراخ",
+        title_breaking_news = "7:00 AM/ Today Weazel News Excluive",
+        bottom_breaking_news = "نحن نجلب لك آخر الأخبار تعيش كما يحدث",
+        take_camera = "كاميرا الأخبار",
+        take_boom_mic = "خذ ميك",
+        take_hand_mic = "خذ يداك",
+        take_vehicle = "مركبة",
+        no_vehicles = "لا توجد مركبات متاحة",
+        garage = "مرآب أخبار ويزل",
+        news_title = "WeAZEL NEWS",
+        field_live = "الوحدة الميدانية/الحياة",
+        camera_label = "NEWS CAM 01",
+    }
+}

@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "Weazle Overlay ZXQPLACECEER 0QXZ\nPhủ phim: ZXQPLACECEER1QXZ",
+        vehicle = "Những chiếc xe tin tức Weazel",
+        close_menu = "Trình đơn Đóng",
+        heli = "Máy bay trực thăng Weazel",
+        store_vehicle = "Lưu trữ xe",
+        vehicles = "Xe hơi",
+        store_helicopters = "Lưu các trực thăng",
+        helicopters = "Trực thăng",
+        enter = "Vào",
+        go_outside = "Ra ngoài",
+        breaking_news = "TIẾNG KỂ LẠI",
+        title_breaking_news = "7 giờ sáng / Ngày nay, tin tức tràn ngập",
+        bottom_breaking_news = "Chúng tôi mang đến cho bạn tin tức LATES trực tiếp",
+        take_camera = "Lấy máy ảnh tin tức",
+        take_boom_mic = "Lấy mic bum",
+        take_hand_mic = "Cầm lấy mic",
+        take_vehicle = "Lấy xe đi.",
+        no_vehicles = "Không có xe sẵn sàng",
+        garage = "Galazel",
+        news_title = "Tin tức WAZEL",
+        field_live = "NHỮNG CÂU CHUYỆN / Sống",
+        camera_label = "NEWS CAM 01",
+    }
+}

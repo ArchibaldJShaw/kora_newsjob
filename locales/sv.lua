@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "Weazle Overlay ~INPUT_PICKUP~\nFilmöverlägg: ~INPUT_INTERACTION_MENU~",
+        vehicle = "Weazel News Fordon",
+        close_menu = "Nära meny",
+        heli = "Weazel News Helikoptrar",
+        store_vehicle = "Förvara fordonet",
+        vehicles = "Fordon",
+        store_helicopters = "Förvara helikoptrarna",
+        helicopters = "Helikoptrar",
+        enter = "Enter",
+        go_outside = "Gå utanför",
+        breaking_news = "BREAKING NEWS",
+        title_breaking_news = "7:00 AM / Idag Weazel News Exclusive",
+        bottom_breaking_news = "Vi ger dig de senaste nyheterna live när det händer",
+        take_camera = "Ta nyhetskamera",
+        take_boom_mic = "Ta Boom mic",
+        take_hand_mic = "Ta hand mic",
+        take_vehicle = "Ta fordon",
+        no_vehicles = "Inga fordon tillgängliga",
+        garage = "Weazel News Garage",
+        news_title = "Semester nyheter",
+        field_live = "KÄNNA UNIT // LIVE",
+        camera_label = "Nyheter CAM 01",
+    }
+}

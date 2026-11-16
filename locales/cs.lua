@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "Weazle Overlay ~INPUT_PICKUP~\nPřekrytí filmu: ~INPUT_INTERACTION_MENU~",
+        vehicle = "Weazel News vozidla",
+        close_menu = "Zavřít nabídku",
+        heli = "Weazel News Helicopters",
+        store_vehicle = "Uložit vozidlo",
+        vehicles = "Vozidla",
+        store_helicopters = "Uložit vrtulníky",
+        helicopters = "Vrtulníky",
+        enter = "Zadejte",
+        go_outside = "Jdi ven.",
+        breaking_news = "BĚŽNÉ NOVINY",
+        title_breaking_news = "7: 00 / Dnes Weazel News Exclusive",
+        bottom_breaking_news = "Přinášíme vám poslední zprávy živě.",
+        take_camera = "Vezměte si foťák.",
+        take_boom_mic = "Vezměte si mikrofon.",
+        take_hand_mic = "Vezmi si mikrofon.",
+        take_vehicle = "Vezměte si vozidlo",
+        no_vehicles = "Nejsou k dispozici žádná vozidla.",
+        garage = "Weazel Novinky Garáž",
+        news_title = "NEBEZPEČNÉ NOVINY",
+        field_live = "POLOHA JEDNOTLIVÉ / / ŽIVÉ",
+        camera_label = "NOVINKY CAM 01",
+    }
+}

@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "Weazle Overlay ZXQPLACEHOLER0QXZ\nFilm Overlay: ZXQPLACEHOLER1QXZ",
+        vehicle = "Mga Sasakyang Pangbalita ng Weazel",
+        close_menu = "⬅ Saradong Menu",
+        heli = "Mga Helicopter ng Balitang Weazel",
+        store_vehicle = "Itago ang Sasakyan",
+        vehicles = "Sasakyan",
+        store_helicopters = "Itago ang mga Helikopter",
+        helicopters = "Mga helikopter",
+        enter = "Pumasok",
+        go_outside = "Lumabas",
+        breaking_news = "PAG - AABLOY SA NEWS",
+        title_breaking_news = "7:00 AM / Sa Ngayon ang Balitang Weazel ay Nakahihigit",
+        bottom_breaking_news = "Dinadala namin sa iyo ang LETST NEWS na nabubuhay habang nangyayari ito",
+        take_camera = "Kumuha ng kamera ng balita",
+        take_boom_mic = "Gumamit ng boot muc",
+        take_hand_mic = "Magkamay",
+        take_vehicle = "Sumakay ng sasakyan",
+        no_vehicles = "Walang magagamit na sasakyan",
+        garage = "Kasuutan ng mga Balitang Weazel",
+        news_title = "WEAZEL NEWS",
+        field_live = "PIELD UNIT // NABUBUHAY",
+        camera_label = "NEWS CAM 01",
+    }
+}

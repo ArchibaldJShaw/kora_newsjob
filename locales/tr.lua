@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "Weazle Overlay ~INPUT_PICKUP~\nFilm Overlay: ~INPUT_INTERACTION_MENU~",
+        vehicle = "Weazel News Tools",
+        close_menu = "Close Menu",
+        heli = "Weazel News Helikopters",
+        store_vehicle = "Araç",
+        vehicles = "Araçlar",
+        store_helicopters = "Helikopterler Mağaza",
+        helicopters = "Helikopterler",
+        enter = "Enter Enter Enter Enter Enter Enter Enter girin",
+        go_outside = "Dışarıdan Git",
+        breaking_news = "REAKING HABERLER HABERLER",
+        title_breaking_news = "7:00 AM / Bugün Weazel News Exclusive",
+        bottom_breaking_news = "Size LATEST HABERLER, olduğu gibi yaşarız",
+        take_camera = "Haber kamerasını alın",
+        take_boom_mic = "Take boom mic",
+        take_hand_mic = "El mic",
+        take_vehicle = "Araç alın",
+        no_vehicles = "Mevcut hiçbir araç mevcut değil",
+        garage = "Weazel News Garage",
+        news_title = "WEAZEL HABERLER",
+        field_live = "FIELD UNIT // LIVE",
+        camera_label = "[14]",
+    }
+}

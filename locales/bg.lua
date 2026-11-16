@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "Weazle Overlay ~INPUT_PICKUP~\nFilm Overlay: ~INPUT_INTERACTION_MENU~",
+        vehicle = "Weazel News превозни средства",
+        close_menu = "да затвори менюто",
+        heli = "Хеликоптери от Weasel News",
+        store_vehicle = "Да се съхранява превозното средство",
+        vehicles = "Превозни средства",
+        store_helicopters = "Да се съхранява хеликоптерите",
+        helicopters = "Вертолети",
+        enter = "Въведете",
+        go_outside = "Излез навън.",
+        breaking_news = "БЕЛЕЖКИ НОВИНИ",
+        title_breaking_news = "7:00 ч. / Днес Weazel News Exclusive",
+        bottom_breaking_news = "Носим ви последните новини на живо.",
+        take_camera = "Вземи новинарските камери.",
+        take_boom_mic = "Вземи микрофона.",
+        take_hand_mic = "Вземи микрофона.",
+        take_vehicle = "Вземете превозното средство",
+        no_vehicles = "Няма налични превозни средства",
+        garage = "Weazel News Garage",
+        news_title = "НОВИНИ ЗА СМЪРТ",
+        field_live = "КОНВЕНЦИЯ",
+        camera_label = "НОВИНИ CAM 01",
+    }
+}
