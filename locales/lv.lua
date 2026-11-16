@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "Weazle Overlay ~INPUT_PICKUP~\nTabletes apvalks: ~INPUT_INTERACTION_MENU~",
+        vehicle = "Weazel ziņu transportlīdzekļi",
+        close_menu = "י Aizvērt izvēlni",
+        heli = "Ziņu nesēji Helikopteri",
+        store_vehicle = "Transportlīdzekļa glabāšana",
+        vehicles = "Transportlīdzekļi",
+        store_helicopters = "Uzglabāt helikopterus",
+        helicopters = "Helikopteri",
+        enter = "Ievadiet",
+        go_outside = "Iet ārā",
+        breaking_news = "BRĪVĀS ZIŅAS",
+        title_breaking_news = "7:00 AM / Šodien Weazel News Exclusive",
+        bottom_breaking_news = "Mēs nesu jums LATEST ziņas dzīvot, kā tas notiek",
+        take_camera = "Veikt ziņu kameru",
+        take_boom_mic = "Paņemt mikrofonu",
+        take_hand_mic = "Ņemiet rokas mikrofonu",
+        take_vehicle = "Veikt transportlīdzekli",
+        no_vehicles = "Nav pieejami transportlīdzekļi",
+        garage = "Weazel News Garage",
+        news_title = "WEAZEL ZIŅAS",
+        field_live = "LIVE",
+        camera_label = "ZIŅAS CAM 01",
+    }
+}

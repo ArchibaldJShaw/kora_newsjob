@@ -12,7 +12,16 @@ local Translations = {
         go_outside = "~g~E~w~ - Nach draußen gehen",
         breaking_news = "EILMELDUNG",
         title_breaking_news = "7:00 Uhr / Heute Weazel News Exklusiv",
-        bottom_breaking_news = "Wir bringen Ihnen die NEUESTEN NACHRICHTEN live, während sie geschehen"
+        bottom_breaking_news = "Wir bringen Ihnen die NEUESTEN NACHRICHTEN live, während sie geschehen",
+        take_vehicle = "Nehmerfahrzeug",
+        field_live = "FELDEINHEIT // LEBEND",
+        garage = "Weazel News Garage",
+        take_hand_mic = "Nehmen Sie Handmikrofone",
+        no_vehicles = "Keine Fahrzeuge verfügbar",
+        camera_label = "NEWS CAM 01",
+        news_title = "WEAZEL NEWS",
+        take_camera = "Nehmen Sie Nachrichtenkamera",
+        take_boom_mic = "Nehmen Sie Boom Mic",
     }
 }
 

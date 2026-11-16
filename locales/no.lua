@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "Weazle Overlegg ~INPUT_PICKUP~\nFilmoverlegg: ~INPUT_INTERACTION_MENU~",
+        vehicle = "Weazel Nyheter kjøretøy",
+        close_menu = "⬅ Lukk meny",
+        heli = "Weazel Nyheter Helikopter",
+        store_vehicle = "Lagre bilen",
+        vehicles = "Kjøretøy",
+        store_helicopters = "Lagre Helikopters",
+        helicopters = "Helikopters",
+        enter = "Enter",
+        go_outside = "Gå ut",
+        breaking_news = "Nyhetsbrev",
+        title_breaking_news = "7:00 / I dag Weazel Nyheter Eksklusiv",
+        bottom_breaking_news = "Vi gir deg de laveste nyhetene live som det skjer",
+        take_camera = "Ta nyhetskamera",
+        take_boom_mic = "Ta boom mikrofon",
+        take_hand_mic = "Ta hånd mikrofon",
+        take_vehicle = "Ta bilen",
+        no_vehicles = "Ingen kjøretøy tilgjengelig",
+        garage = "Weazel Nyheter Garasje",
+        news_title = "WEAZEL NYHETER",
+        field_live = "FIELD UNITY // LIVE",
+        camera_label = "Nyhetsbrev 01",
+    }
+}

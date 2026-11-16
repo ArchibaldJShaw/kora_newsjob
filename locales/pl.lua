@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "Słabe nakładki ~INPUT_PICKUP~\nFilm Overlay: ~INPUT_INTERACTION_MENU~",
+        vehicle = "Weezel News Pojazdów",
+        close_menu = "Zamknij menu",
+        heli = "Śmigłowce",
+        store_vehicle = "Przechowywać pojazd",
+        vehicles = "Pojazdy",
+        store_helicopters = "Przechowuj helikoptery",
+        helicopters = "Śmigłowce",
+        enter = "Wpisz",
+        go_outside = "Wyjdź na zewnątrz.",
+        breaking_news = "WIADOMOŚCI",
+        title_breaking_news = "7: 00 AM / Today Weazel Aktualności Exclusive",
+        bottom_breaking_news = "Przynosimy wam najświeższe wiadomości na żywo.",
+        take_camera = "Weź kamerę wiadomości",
+        take_boom_mic = "Take boom mic",
+        take_hand_mic = "Weź mikrofon",
+        take_vehicle = "Pojazd",
+        no_vehicles = "Brak dostępnych pojazdów",
+        garage = "Weazel News Garaż",
+        news_title = "WEAZEL NEWS",
+        field_live = "POLSKA JEDNOSTKA / / LIVE",
+        camera_label = "Wiadomości CAM 01",
+    }
+}

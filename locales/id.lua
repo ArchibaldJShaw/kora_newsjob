@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "Weazle Overlay ZXQPlaceHOLDER0QXZ\nFilm Overlay: ~INPUT_INTERACTION_MENU~",
+        vehicle = "Weazel News Vehicles",
+        close_menu = "Tutup Menu",
+        heli = "Weazel News Helicopters",
+        store_vehicle = "Simpan kendaraannya",
+        vehicles = "Kendaraan",
+        store_helicopters = "Simpan Helicopters",
+        helicopters = "Helikopter",
+        enter = "Masuk",
+        go_outside = "Keluarlah.",
+        breaking_news = "Berita BREAKING",
+        title_breaking_news = "7: 00 pagi / Hari Weazel News Exclusive",
+        bottom_breaking_news = "Kami membawakan berita terkini.",
+        take_camera = "Ambil kamera berita",
+        take_boom_mic = "Ambil boom mic",
+        take_hand_mic = "Ambil mic tangan",
+        take_vehicle = "Ambil kendaraan",
+        no_vehicles = "Tidak ada kendaraan yang tersedia",
+        garage = "Weazel News Garage",
+        news_title = "Berita WEAZEL",
+        field_live = "FIELD UNIT / / LIVE",
+        camera_label = "NEWS CAM 01",
+    }
+}

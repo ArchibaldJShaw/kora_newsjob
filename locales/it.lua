@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "Weazle Overlay ~INPUT_PICKUP~\nOverlay del film: ~INPUT_INTERACTION_MENU~",
+        vehicle = "Weazel News Veicoli",
+        close_menu = "⬅ Chiudi menu",
+        heli = "Weazel News Elicotteri",
+        store_vehicle = "Conservare il veicolo",
+        vehicles = "Veicoli",
+        store_helicopters = "Conservare gli elicotteri",
+        helicopters = "Elicotteri",
+        enter = "Inserisci",
+        go_outside = "Vai fuori",
+        breaking_news = "NOVITÀ DI RICERCA",
+        title_breaking_news = "7:00 AM / Oggi Weazel News esclusiva",
+        bottom_breaking_news = "Vi portiamo le ultime novità dal vivo come accade",
+        take_camera = "Prendere la fotocamera di notizie",
+        take_boom_mic = "Prendere microfono boom",
+        take_hand_mic = "Prendi il microfono della mano",
+        take_vehicle = "Prendere il veicolo",
+        no_vehicles = "Nessun veicolo disponibile",
+        garage = "Weazel News Garage",
+        news_title = "NOVITÀ",
+        field_live = "FIELD UNIT // LIVE",
+        camera_label = "NOTIZIE CAM 01",
+    }
+}

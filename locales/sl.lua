@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "Weazle Overlay ~INPUT_PICKUP~\nFilmska obloga: ~INPUT_INTERACTION_MENU~",
+        vehicle = "Vozila Weazel News",
+        close_menu = "",
+        heli = "Weazel News Helikopterji",
+        store_vehicle = "Shrani vozilo",
+        vehicles = "Vozila",
+        store_helicopters = "Shranite helikopterje",
+        helicopters = "Helikopterji",
+        enter = "Vnesite",
+        go_outside = "Pojdi ven.",
+        breaking_news = "POBUDNE NOVICE",
+        title_breaking_news = "7:00 / Danes Weazel Novice Ekskluzivno",
+        bottom_breaking_news = "V živo vam prinašamo zadnje novice.",
+        take_camera = "Vzemi kamero za novice",
+        take_boom_mic = "Vzemi bum mikrofon",
+        take_hand_mic = "Ročni mikrofon",
+        take_vehicle = "Vzemi vozilo.",
+        no_vehicles = "Vozila niso na voljo",
+        garage = "Weazel News Garage",
+        news_title = "TAKŠNE NOVICE",
+        field_live = "FELD ENOTA // ŽIVO",
+        camera_label = "NOVICE CAM 01",
+    }
+}

@@ -1,0 +1,26 @@
+return {
+    text = {
+        weazle_overlay = "Weazle Overlay ~INPUT_PICKUP~\nFilm: ~INPUT_INTERACTION_MENU~",
+        vehicle = "Weazel News Vehicles",
+        close_menu = "Inchide meniul",
+        heli = "Weazel News Elicoptere",
+        store_vehicle = "Stochează vehiculul",
+        vehicles = "Vehicule",
+        store_helicopters = "Stochează elicopterele",
+        helicopters = "Elicoptere",
+        enter = "Intră",
+        go_outside = "Du-te afară.",
+        breaking_news = "NOUTĂŢI",
+        title_breaking_news = "7:00 AM / Astăzi Weazel News Exclusiv",
+        bottom_breaking_news = "Îţi aducem ultimele ştiri în direct.",
+        take_camera = "Ia camera de ştiri",
+        take_boom_mic = "Ia microfon boom",
+        take_hand_mic = "Ia de mână mic",
+        take_vehicle = "Ia vehiculul",
+        no_vehicles = "Nu există vehicule disponibile",
+        garage = "Weazel Ştiri Garaj",
+        news_title = "VESTILE DE VAZEL",
+        field_live = "Unităţi de câmp",
+        camera_label = "Știri CAM 01",
+    }
+}
